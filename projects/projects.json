@@ -655,6 +655,23 @@
         "jQuery",
         "Mobile"
       ]
-    }
+    },
+      {
+          "name": "nbawowy",
+          "thumb": "nbawowy/thumb.png",
+          "desc": "Find statistics of your favorite team with any arbitrary combination of players on or off the court.",
+          "url": "http://nbawowy.com",
+          "info":"http://www.d3coder.com/thecity/2013/01/04/introducing-nba-wowy/",
+          "submitter":"EvanZ",
+          "submissionDate":"2013-01-05",
+          "tags": [
+                "Production",
+                "Entertainment",
+                "Statistics",
+                "No jQuery",
+                "Node",
+                "Bootstrap"
+          ]
+      }
   ]
 }
